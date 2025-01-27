@@ -1,0 +1,118 @@
+{
+    "Mumbai": {
+        "radiationLevel": 0.12,
+        "unit": "μSv/h"
+    },
+    "Delhi": {
+        "radiationLevel": 0.09,
+        "unit": "μSv/h"
+    },
+    "Bangalore": {
+        "radiationLevel": 0.14,
+        "unit": "μSv/h"
+    },
+    "Kolkata": {
+        "radiationLevel": 0.13,
+        "unit": "μSv/h"
+    },
+    "Chennai": {
+        "radiationLevel": 0.11,
+        "unit": "μSv/h"
+    },
+    "Hyderabad": {
+        "radiationLevel": 0.10,
+        "unit": "μSv/h"
+    },
+    "Pune": {
+        "radiationLevel": 0.15,
+        "unit": "μSv/h"
+    },
+    "Ahmedabad": {
+        "radiationLevel": 0.16,
+        "unit": "μSv/h"
+    },
+    "Jaipur": {
+        "radiationLevel": 0.09,
+        "unit": "μSv/h"
+    },
+    "Lucknow": {
+        "radiationLevel": 0.12,
+        "unit": "μSv/h"
+    },
+    "Chandigarh": {
+        "radiationLevel": 0.13,
+        "unit": "μSv/h"
+    },
+    "Bhopal": {
+        "radiationLevel": 0.14,
+        "unit": "μSv/h"
+    },
+    "Nagpur": {
+        "radiationLevel": 0.15,
+        "unit": "μSv/h"
+    },
+    "Jaipur": {
+        "radiationLevel": 0.16,
+        "unit": "μSv/h"
+    },
+    "Indore": {
+        "radiationLevel": 0.10,
+        "unit": "μSv/h"
+    },
+    "Visakhapatnam": {
+        "radiationLevel": 0.08,
+        "unit": "μSv/h"
+    },
+    "Kochi": {
+        "radiationLevel": 0.10,
+        "unit": "μSv/h"
+    },
+    "Agra": {
+        "radiationLevel": 0.09,
+        "unit": "μSv/h"
+    },
+    "Mysuru": {
+        "radiationLevel": 0.11,
+        "unit": "μSv/h"
+    },
+    "Bhubaneswar": {
+        "radiationLevel": 0.12,
+        "unit": "μSv/h"
+    },
+    "Ahmedabad": {
+        "radiationLevel": 0.13,
+        "unit": "μSv/h"
+    },
+    "Nashik": {
+        "radiationLevel": 0.14,
+        "unit": "μSv/h"
+    },
+    "Kanpur": {
+        "radiationLevel": 0.15,
+        "unit": "μSv/h"
+    },
+    "Guwahati": {
+        "radiationLevel": 0.08,
+        "unit": "μSv/h"
+    },
+    "Amritsar": {
+        "radiationLevel": 0.09,
+        "unit": "μSv/h"
+    },
+    "Patna": {
+        "radiationLevel": 0.13,
+        "unit": "μSv/h"
+    },
+    "Raipur": {
+        "radiationLevel": 0.12,
+        "unit": "μSv/h"
+    },
+    "Ranchi": {
+        "radiationLevel": 0.10,
+        "unit": "μSv/h"
+    },
+    "Shillong": {
+        "radiationLevel": 0.11,
+        "unit": "μSv/h"
+    }
+}
